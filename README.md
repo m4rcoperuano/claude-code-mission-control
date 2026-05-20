@@ -2,6 +2,12 @@
 
 From the Vueconf May 2026 talk
 
+## How to use
+
+If you're using claude code, these README docs can be piped into your prompt so you can build your own "mission control" style app. What i would do is tell claude to:
+
+"Read the docs from this github url, as well as all the files linked in that README file. Then, provide me a plan to implement this app for my own local workflow, starting with viewing sessions in a list and allow me to chat with each session within the application. Ask me what stack I would like first"
+
 ## Pages
 
 - [Claude Code Mission Control](./00-claude-code-mission-control.md)
