@@ -1,6 +1,6 @@
-# Claude Code Mission Control - Confluence Export
+# Claude Code Mission Control 
 
-Exported from https://sendjim.atlassian.net/wiki/spaces/EESVK/pages/496467969
+From the Vueconf May 2026 talk
 
 ## Pages
 
