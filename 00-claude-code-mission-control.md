@@ -1,7 +1,5 @@
 # Claude Code Mission Control
 
-_Source: https://sendjim.atlassian.net/wiki/spaces/EESVK/pages/496467969_
-
 As we continue to use claude to do more and more, I find that it becomes super difficult to track which chat did what. So, I built a tool for my own internal work that wraps Claude Code in a web app interface. This app was 100% claude built using Laravel, but it can be built using any language. Below is a list of pages that discuss how you should set this up.
 
 ![](https://sendjim.atlassian.net/wiki/download/thumbnails/496467969/2026-04-13%20at%201.01%E2%80%AFPM-20260413-170214.png?version=1&modificationDate=1776099740881&cacheVersion=1&api=v2&width=741&height=594)
