@@ -1,7 +1,5 @@
 # Phase 3: Auto-Naming, Summaries, and Link Extraction in Session Management
 
-_Source: https://sendjim.atlassian.net/wiki/spaces/EESVK/pages/497745921_
-
 ## Phase 3: Auto-Naming, Summaries, and Link Extraction
 
 Phase 2 gave you readable session timelines. Phase 3 makes sessions _browsable_ -- you can scan a list of 50 sessions and quickly find the one where you fixed that auth bug or opened that PR, without clicking into each one.
