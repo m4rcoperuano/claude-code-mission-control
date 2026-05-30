@@ -1,7 +1,5 @@
 # Phase 1: Core Session Logging
 
-_Source: https://sendjim.atlassian.net/wiki/spaces/EESVK/pages/496402446_
-
 ## Phase 1: Core Session Logging
 
 This is the minimum viable Claude Code dashboard. By the end, every Claude Code session on your machine will be logged to a database with a web page to browse them. No transcript parsing, no summaries, no real-time updates -- just reliable event capture and a list view.
