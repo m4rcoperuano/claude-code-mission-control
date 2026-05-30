@@ -1,7 +1,5 @@
 # Phase 4: Interactive Messaging and Session Management in Claude Code
 
-_Source: https://sendjim.atlassian.net/wiki/spaces/EESVK/pages/497188876_
-
 ---
 
 ## Phase 4: Sending Messages, Session Management, and Settings Sync
