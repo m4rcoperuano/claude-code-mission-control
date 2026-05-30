@@ -1,7 +1,5 @@
 # Web App Overview
 
-_Source: https://sendjim.atlassian.net/wiki/spaces/EESVK/pages/496762881_
-
 ## Building a Claude Code Dashboard
 
 The previous pages covered hooks and folder structure. This page covers how to put them together into a web app that logs and displays your Claude Code sessions.
