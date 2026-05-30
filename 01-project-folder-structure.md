@@ -1,7 +1,5 @@
 # Project Folder Structure
 
-_Source: https://sendjim.atlassian.net/wiki/spaces/EESVK/pages/496861185_
-
 ## Folder Structure
 
 Your folder structure is key to getting Claude to work across various projects on your machine. Each client project gets its own `.claude` directory, which is where Claude reads project-specific settings, instructions, and skills.
