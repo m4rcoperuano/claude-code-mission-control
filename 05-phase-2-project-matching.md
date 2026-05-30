@@ -1,7 +1,5 @@
 # Phase 2: Project Matching, Transcript Parsing, and Event Grouping
 
-_Source: https://sendjim.atlassian.net/wiki/spaces/EESVK/pages/497647617_
-
 ## Phase 2: Project Matching, Transcript Parsing, and Event Grouping
 
 Phase 1 gave you a log of every hook event. Phase 2 turns that log into something you actually want to look at -- sessions tied to projects, full assistant responses in the timeline, and events grouped into coherent turns instead of a flat list.
