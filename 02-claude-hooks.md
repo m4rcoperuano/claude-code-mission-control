@@ -1,7 +1,5 @@
 # Claude Hooks
 
-_Source: https://sendjim.atlassian.net/wiki/spaces/EESVK/pages/496631809_
-
 ## What Are Hooks?
 
 Claude Code hooks are event-driven callbacks that fire at specific points during a Claude Code session. They let you push session data to external systems in real time -- no polling, no log scraping.
