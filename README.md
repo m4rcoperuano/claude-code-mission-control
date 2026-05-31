@@ -1,4 +1,4 @@
-# Claude Code Mission Control 
+# Claude Code Meta-Harness
 
 From the Vueconf May 2026 talk
 
